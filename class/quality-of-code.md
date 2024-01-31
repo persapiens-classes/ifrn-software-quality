@@ -15,6 +15,10 @@ According to Zarnekow et All in Paper Distribution of cost over the application 
 > 
 > For a production time of 5 years these costs amounted to 79% of all life cycle costs, whereas only 21% of the costs were incurred during the planning and initial development stages
 
+## Use Version Control ##
+
+## Use Pipeline ##
+
 ## 👍 Use Static Analysis ##
 
 [What Is Static Code Analysis?](https://www.perforce.com/blog/sca/what-static-analysis)

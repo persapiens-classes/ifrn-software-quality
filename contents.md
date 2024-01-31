@@ -30,15 +30,16 @@ Contents
     1. *Branch by Feature*
     2. *Pull Request*
 
-6. *Static Analysis*
-    1. *Code Smells*
-    2. *Duplicated Code*
-    3. *Static Bugs*
-    4. *Coding Standards*
-    5. *Quality Analysis Server*
-    6. *Pipeline*
+6. *Pipeline*
 
-7. *Security Code*
+7. *Static Analysis*
+    1. *Coding Standards*
+    2. *Code Smells*
+    3. *Duplicated Code*
+    4. *Static Bugs*
+    5. *Quality Analysis Server*
+
+8. *Security Code*
     1. *Standards*
     2. *Library*
     3. *Source Code*
