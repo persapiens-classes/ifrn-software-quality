@@ -1,10 +1,10 @@
 Communication
 ====
 
-- News at [Google Classroom Mural](https://classroom.google.com/u/3/c/NTQzODQyMzA5MTUz)
+- News at [Google Classroom Mural](https://classroom.google.com/u/2/c/NjI4NjU0MTc0MDY2)
 
-- Tasks at [Google Classroom Atividades](https://classroom.google.com/u/3/w/NTQzODQyMzA5MTUz/t/all)
+- Tasks at [Google Classroom Atividades](https://classroom.google.com/u/2/c/NjI4NjU0MTc0MDY2/t/all)
 
 - Grades [Suap](https://suap.ifrn.edu.br)
 
-- Support at [Google Classroom Mural](https://classroom.google.com/u/3/c/NTQzODQyMzA5MTUz) and at Personal (DIATINF / IFRN).
+- Support at [Google Classroom Mural](https://classroom.google.com/u/2/c/NjI4NjU0MTc0MDY2) and at Personal (DIATINF / IFRN).
