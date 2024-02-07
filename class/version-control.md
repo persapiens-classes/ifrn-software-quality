@@ -17,7 +17,9 @@
 ## 👷 Task
 
 Create one pull request for your project.
+
 It should do something valuable to your project.
+
 Your should merge the PR into the main branch.
 
 Examples: Introducing team definition, Fixing typos, Fixing some open issues.
