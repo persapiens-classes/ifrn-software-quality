@@ -1,4 +1,4 @@
-Calendar
+Classes
 ====
 
 1. [First Meeting](class/first-meeting.md)

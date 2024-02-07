@@ -1,6 +1,8 @@
 Contents
 ====
 
+See description of course **[Qualidade de Software (Page 109)](https://portal.ifrn.edu.br/documents/739/PPC__Tecnologia_em_An%C3%A1lise_e_Desenvolvimento_de_Sistemas_2012.pdf)**
+
 1. Software Quality Fundamentals
     1. Fundamental Principles and Concepts
     2. Software Engineering Ethics and Culture
