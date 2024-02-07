@@ -3,7 +3,7 @@ Classes
 
 1. [First Meeting](class/first-meeting.md)
 
-2. [Quality of Code](class/quality-of-code.md)
+2. [Software Quality](class/software-quality.md)
 
 3. [Version Control](class/version-control.md)
 
