@@ -11,7 +11,7 @@ Assessment
 
 - Grade is the average of the bimester's tasks grades. 
 
-- Individual grade and team grade.
+- Individual grade.
 
 - Final test with a traditional theoretical exam.
 
@@ -19,9 +19,11 @@ Assessment
 
 - Use the technology stack (programming language, framework) of your choice.
 
-- [Version controlled](class/version-control.md)
+- [Version controlled](class/version-control.md): branch, commits and pull requests.
 
-- Pipeline
+- Issue, branch, pull request and commits should be connected.
 
-- Explain the submission to the professor. Issue, pull request and commits should be connected.
+- Pipeline should build ok.
+
+- Explain the submission to the professor. 
 
