@@ -9,7 +9,7 @@ Classes
 
 4. [CI/CD Pipeline](class/pipeline.md)
 
-5. [Coding Standards (checkstyle)](class/coding-standards.md)
+5. [Coding Standards (Spring Java Format)](class/coding-standards.md)
 
 6. [Code Smells (pmd)](class/code-smells.md)
 
