@@ -7,7 +7,7 @@ Classes
 
 3. [Version Control](class/version-control.md)
 
-4. Pipeline
+4. [CI/CD Pipeline](class/pipeline.md)
 
 5. [Coding Standards (checkstyle)](class/coding-standards.md)
 
