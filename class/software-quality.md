@@ -70,9 +70,13 @@ According to Zarnekow et All in Paper Distribution of cost over the application 
 [5 reasons why testing code is great](https://www.educative.io/answers/5-reasons-why-testing-code-is-great)
 
 > I. They save you hours of debugging
+>
 > II. They make you think about your code before/as you write it
+>
 > III. They make you write efficient code the first time
+>
 > IV. They give you documentation for the application
+>
 > V. They help keep deployments smooth
 
 [See Why is testing code important?](https://www.quora.com/Why-is-testing-code-important)
