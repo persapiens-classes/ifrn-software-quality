@@ -17,7 +17,7 @@ According to Zarnekow et All in Paper Distribution of cost over the application 
 
 > a survey of the life cycle costs of 30 IT application systems...
 > 
-> For a production time of 5 years these costs amounted to 79% of all life cycle costs, whereas only 21% of the costs were incurred during the planning and initial development stages
+> For a production time of 5 years these costs amounted to **79% of all life cycle costs**, whereas only 21% of the costs were incurred during the planning and initial development stages
 
 
 ## 👍 Use Version Control to improve Software Quality ##
