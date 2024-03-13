@@ -13,7 +13,7 @@ Classes
 
 6. [Security Libraries (Github Dependabot / OWASP Dependabot Check / Red Hat Dependency Analysis)](class/security-libraries.md)
 
-7. Security Code (findsecbugs and sonarqube)
+7. [Security Code (Findsecbugs)](class/security-code.md)
 
 8. Security Connection (ssl)
 
