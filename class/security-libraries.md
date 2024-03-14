@@ -13,12 +13,12 @@ OWASP Vulnerable and Outdated Components
 Hands on with [Conta Example Project.](https://github.com/persapiens/conta/issues/168)
 
 
-## :builb: OWASP Dependency Check
+## :bulb: OWASP Dependency Check
 
 You can also analyse the libraries of your project with [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/)
 
 
-## :build: Red Hat Dependency Analysis Visual Code Extension
+## :bulb: Red Hat Dependency Analysis Visual Code Extension
 
 You can analyse the libraries of your project with [Red Hat Dependency Analysis](https://github.com/fabric8-analytics/fabric8-analytics-vscode-extension)
 
