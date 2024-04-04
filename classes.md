@@ -15,22 +15,24 @@ Classes
 
 7. [Security Libraries (Github Dependabot / OWASP Dependabot Check / Red Hat Dependency Analysis)](class/security-libraries.md)
 
-8. [Security Code (Findsecbugs)](class/security-code.md)
+8. [Secure Two Factor Authentication - 2FA](class/security-2FA.md)
 
-9. Security Connection (ssl)
+9. [Secure Password Manager](class/security-password-manager.md)
 
-10. [Quality Analysis Server (sonarqube)](class/quality-analysis-server.md)
+10. [Security Code (Findsecbugs)](class/security-code.md)
 
-11. [Coding Standards (Spring Java Format)](class/coding-standards.md)
+11. [Quality Analysis Server (sonarqube)](class/quality-analysis-server.md)
 
-12. [Code Smells (pmd)](class/code-smells.md)
+12. [Coding Standards (Spring Java Format)](class/coding-standards.md)
 
-13. [Duplicated Code (cpd)](class/duplicated-code.md) 
+13. [Code Smells (pmd)](class/code-smells.md)
 
-14. [Static Bugs (spotbugs)](class/static-bugs.md)
+14. [Duplicated Code (cpd)](class/duplicated-code.md) 
 
-15. Software Quality Management Process
+15. [Static Bugs (spotbugs)](class/static-bugs.md)
 
-16. SQuaRE Standard
+16. Software Quality Management Process
 
-17. Implementation of Software Quality Assurance
+17. SQuaRE Standard
+
+18. Implementation of Software Quality Assurance
