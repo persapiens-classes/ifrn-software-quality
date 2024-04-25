@@ -25,10 +25,6 @@ Hands on with [Conta Example Project.](https://github.com/persapiens/conta/issue
 
 5. See your project dashboard inside sonarcloud like [this](https://sonarcloud.io/summary/overall?id=persapiens_conta)
 
-6. Configure Analysis Method Manually using menu option 'Administration -> Analysis Method' like [this](https://sonarcloud.io/project/configuration?id=persapiens_conta&analysisMode=GitHubManual). I will use Maven Option.
-
-7. Disable "Automatic Analysis" before running "Manual Analysis".
-
 
 ## :construction_worker: Task
 
@@ -38,6 +34,4 @@ Create one pull request for your project according to [Task Submission Guideline
 
 2. Configure your project to use an analysis quality server like Sonarcloud. 
 
-3. Run manual analysis of your project. Remember to disable "Automatic Analysis" before running manual analysis.
-
-4. Fix some issues detected by sonarcloud dashboard of your project like [this](https://github.com/persapiens/conta/issues/121)
+3. Fix some issues detected by sonarcloud dashboard of your project like [this](https://github.com/persapiens/conta/issues/121)
