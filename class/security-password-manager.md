@@ -26,7 +26,7 @@ Password Manager
 
 ## :construction_worker: Task
 
-- Install one password manager in your cell phone.
+- Install one password manager in your cell phone. Use something different than Google Password Manager.
 
 - Configure one password inside your password manager.
 
