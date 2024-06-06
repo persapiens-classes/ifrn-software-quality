@@ -2,7 +2,7 @@ Application Layer
 ====
 
 - Each layer contains **classes** and **annotations** that have specific responsible.
-- One layer can use classes of other layer, but you should not allow circular dependency.
+- One layer can use classes of other layer, but you **must not allow** circular dependency.
 
 # Application Layers #
 
@@ -78,7 +78,7 @@ Include [decycle](https://github.com/obecker/decycle) in your application in ord
     </build>
 ```
 
-## Browser api using swagger
+## Build
 
 1. Build your app
 
@@ -99,7 +99,8 @@ Create one pull request for your project according to [Task Submission Guideline
 
 3. Add decycle or other similar tool and create contraints about your application layer.
 
-4. Ensure that your application respect the constratins of the layours of your applicatoin.
+4. Ensure that your application respect the constraints of the layours of your application.
+
+5. How do you avoid circular package references?
 
 Create a **separate commit** to each subtask.
-
