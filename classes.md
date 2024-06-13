@@ -43,13 +43,13 @@ Classes
 
 16. [Security Code (Findsecbugs)](class/security-code.md)
 
-17. [Secure Two Factor Authentication - 2FA](class/security-2FA.md)
+17. [Security Connection](class/security-connection.md)
 
-18. [Secure Password Manager](class/security-password-manager.md)
+18. [Secure Two Factor Authentication - 2FA](class/security-2FA.md)
 
-19. [Easy x Security with Credit Cards](class/easy-security-credit-card.md)
+19. [Secure Password Manager](class/security-password-manager.md)
 
-20. Security Connection
+20. [Easy x Security with Credit Cards](class/easy-security-credit-card.md)
 
 21. OWASP ZAP
 
