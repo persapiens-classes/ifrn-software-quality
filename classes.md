@@ -21,9 +21,9 @@ Classes
 
 7. [Coding Standards (Spring Java Format)](class/coding-standards.md)
 
-8. [Duplicated Code (cpd)](class/duplicated-code.md) 
+8. [Code Smells (pmd)](class/code-smells.md)
 
-9. [Code Smells (pmd)](class/code-smells.md)
+9. [Duplicated Code (cpd)](class/duplicated-code.md) 
 
 10. [Duplicated Resources](class/duplicated-resources.md)
 
