@@ -25,7 +25,7 @@ Classes
 
 9. [Code Smells (pmd)](class/code-smells.md)
 
-10. Duplicated Resources
+10. [Duplicated Resources](class/duplicated-resources.md)
 
 ### Quality Analysis Server
 
