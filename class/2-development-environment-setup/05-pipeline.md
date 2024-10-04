@@ -24,7 +24,7 @@ Hands on with [Conta Example Project.](https://github.com/persapiens/conta/issue
 
 ## :construction_worker: Task
 
-Create one pull request for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
+Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
 
 Create a github action workflow to build your project.
 

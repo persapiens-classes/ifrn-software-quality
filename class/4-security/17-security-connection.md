@@ -20,4 +20,4 @@ Security Connection
 
 - Install a valid certificate with letsencrypt.
 
-Create one pull request for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
+Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)

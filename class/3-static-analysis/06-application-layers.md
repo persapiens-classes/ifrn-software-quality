@@ -88,7 +88,7 @@ Include [decycle](https://github.com/obecker/decycle) in your application in ord
 
 ## :construction_worker: Task
 
-Create one pull request for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
+Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
 
 1. Draw the layers of your application.
 

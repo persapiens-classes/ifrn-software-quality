@@ -15,7 +15,7 @@ Hands on with [Conta Example Project.](https://github.com/persapiens/conta/issue
 
 ## :construction_worker: Task
 
-Create one pull request for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
+Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
 
 Install code static analysis tool like spotbugs to fix bugs in your project.
 
