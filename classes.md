@@ -3,27 +3,27 @@ Classes
 
 ### Introduction
 
-1. [First Meeting](class/1-introduction/1-first-meeting.md)
+1. [First Meeting](class/1-introduction/01-first-meeting.md)
 
-2. [Software Quality](class/1-introduction/2-software-quality.md)
+2. [Software Quality](class/1-introduction/02-software-quality.md)
 
 ### Development Environment Setup 
 
-3. [Version Control](class/2-development-environment-setup/3-version-control.md)
+3. [Version Control](class/2-development-environment-setup/03-version-control.md)
 
 4. Visual Code Dev Container and Github Codespaces
 
-5. [CI/CD Pipeline](class/2-development-environment-setup/5-pipeline.md)
+5. [CI/CD Pipeline](class/2-development-environment-setup/05-pipeline.md)
 
 ### Static Analysis
 
-6. [Application Layers and Circular Package Reference](class/3-static-analysis/6-application-layers.md)
+6. [Application Layers and Circular Package Reference](class/3-static-analysis/06-application-layers.md)
 
-7. [Coding Standards (Spring Java Format)](class/3-static-analysis/7-coding-standards.md)
+7. [Coding Standards (Spring Java Format)](class/3-static-analysis/07-coding-standards.md)
 
-8. [Code Smells (pmd)](class/3-static-analysis/8-code-smells.md)
+8. [Code Smells (pmd)](class/3-static-analysis/08-code-smells.md)
 
-9. [Duplicated Code (cpd)](class/3-static-analysis/9-duplicated-code.md) 
+9. [Duplicated Code (cpd)](class/3-static-analysis/09-duplicated-code.md) 
 
 10. [Duplicated Resources](class/3-static-analysis/10-duplicated-resources.md)
 
