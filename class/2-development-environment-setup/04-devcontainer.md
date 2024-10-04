@@ -12,7 +12,7 @@
 
 :unlock: System Requirements:
 - [Docker](https://docker.com)
-- [Visual Code]([https://](https://code.visualstudio.com/))
+- [Visual Code](https://code.visualstudio.com/)
 - Dev Containers Visual Code Extension
 
 :star: Nice Tutorials:
