@@ -29,7 +29,7 @@ You can analyse the libraries of your project with [Red Hat Dependency Analysis]
 
 - Fix some outdated libraries found in your project with the chosen method.
 
-Create one pull request for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
+Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
 
 ## :construction_worker: Task 2
 
@@ -37,4 +37,4 @@ Create one pull request for your project according to [Task Submission Guideline
 
 - Fix some outdated libraries found in your project with the chosen method.
 
-Create one pull request for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
+Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)

@@ -25,7 +25,7 @@ Hands on with [Conta Example Project.](https://github.com/persapiens/conta/pull/
 
 ## :construction_worker: Task
 
-Create one pull request for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
+Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
 
 Install one code smells static analysis tool like pmd in your project.
 

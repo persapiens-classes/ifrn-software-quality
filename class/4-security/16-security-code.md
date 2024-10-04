@@ -22,4 +22,4 @@ Hands on with [Conta Example Project.](https://github.com/persapiens-classes/con
 
 - Run FindSecBugs in your pipeline to continuously scan security issues in your github project.
 
-Create one pull request for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
+Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)

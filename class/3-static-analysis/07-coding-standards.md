@@ -35,7 +35,7 @@ Hands on with [Conta Example Project:](https://github.com/persapiens/conta/issue
 
 ## :construction_worker: Task
 
-Create one pull request for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
+Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
 
 Install one coding standard tool like Spring Java Format in your project.
 

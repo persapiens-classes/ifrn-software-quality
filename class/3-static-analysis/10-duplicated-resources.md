@@ -17,7 +17,7 @@ Hands on with [Conta Example Project.](https://github.com/persapiens-classes/con
 
 ## :construction_worker: Task
 
-Create one pull request for your project according to [Task Submission Guidelines.](../assessment.md#task-submission)
+Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
 
 Install one duplicated resources static analysis tool like duplicate finder in your project.
 
