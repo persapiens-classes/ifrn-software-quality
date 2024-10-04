@@ -25,8 +25,8 @@
 
 ## 👷 Task
 
-Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
+- Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
 
-Create a devcontainer.json to configure a dev container for your project.
+- Create a devcontainer.json to configure a dev container for your project.
 
-Run the action successfully.
+- Start the dev container successfully.
