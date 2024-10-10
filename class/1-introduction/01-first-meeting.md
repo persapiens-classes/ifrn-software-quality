@@ -1,6 +1,8 @@
-:wave: First Meeting
+:wave: First Meeting - Overall Syllabus Explanation
 ====
 
-1. Overall Syllabus Explanation: [Objectives](../objectives.md), [Contents](../contents.md), [Calendar](../calendar.md)
-2. [Assessment Explanation, Team Definition, and Version Control Usage](../assessment.md)
-4. [Communication Definition](../communication.md)
+1. [Objectives](../../objectives.md)
+2. [Contents](../../contents.md)
+3. [Communication Definition](../../communication.md)
+4. [Assessment Explanation](../../assessment.md)
+5. [Classes](../../classes.md)
