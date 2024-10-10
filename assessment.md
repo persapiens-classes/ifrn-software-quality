@@ -17,13 +17,12 @@ Assessment
 
 ## Task Submission
 
-- Use the technology stack (programming language, framework) of your choice.
+- Use your chosen technology stack (programming language, framework).
 
 - [Version controlled](class/2-development-environment-setup/03-version-control.md): branch, commits and pull requests.
 
 - Issue, branch, pull request and commits should be connected.
 
-- Pipeline should build ok.
+- [Pipeline](class/2-development-environment-setup/05-pipeline.md) should build ok.
 
 - Explain the submission to the professor. 
-
