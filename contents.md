@@ -27,22 +27,4 @@ See description of course **[Qualidade de Software (Page 109)](https://portal.if
     2. Defect Characterization
     3. Software Quality Management Techniques
     4. Software quality Measurement
-
-5. *Version Control*
-    1. *Branch by Feature*
-    2. *Pull Request*
-
-6. *Pipeline*
-
-7. *Static Analysis*
-    1. *Coding Standards*
-    2. *Code Smells*
-    3. *Duplicated Code*
-    4. *Static Bugs*
-    5. *Quality Analysis Server*
-
-8. *Security Code*
-    1. *Standards*
-    2. *Library*
-    3. *Source Code*
-    4. *Connection*
+       
