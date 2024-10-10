@@ -7,11 +7,11 @@
 
 - [Create a branch to work on the issue.](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue)
 
-- [Version controlled using pull requests.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-
 - [Use Semantic Commit messages.](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 
 - [Good commit messages are appreciated.](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+
+- [Version controlled using pull requests.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 - Version Control Repository: GitHub
 
