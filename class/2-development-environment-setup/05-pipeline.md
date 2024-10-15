@@ -20,7 +20,7 @@ According to [Semaphoreci](https://semaphoreci.com/blog/cicd-pipeline)
 
 Let's use [Github Actions](https://docs.github.com/en/actions) to create a build pipeline of our project.
 
-Hands on with [Conta Example Project.](https://github.com/persapiens/conta/issues/165)
+Hands on with [Example Project.]([https://github.com/persapiens/conta/issues/165](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/7))
 
 ## :construction_worker: Task
 
