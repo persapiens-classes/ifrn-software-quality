@@ -23,15 +23,15 @@ Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-soft
 
 4. Wait first automatic analysis to run. 
 
-5. See your project dashboard inside sonarcloud like [this](https://sonarcloud.io/summary/overall?id=persapiens_conta)
+5. See your project dashboard inside sonarcloud like [this](https://sonarcloud.io/summary/overall?id=persapiens-classes_ifrn-software-quality-example)
 
 
 ## :construction_worker: Task
 
 Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
 
-1. Send a link of your project inside sonarcloud like [this](https://sonarcloud.io/summary/overall?id=persapiens_conta)
+1. Send a link of your project inside sonarcloud like [this](https://sonarcloud.io/summary/overall?id=persapiens-classes_ifrn-software-quality-example)
 
 2. Configure your project to use an analysis quality server like Sonarcloud. 
 
-3. Fix some issues detected by sonarcloud dashboard of your project like [this](https://github.com/persapiens/conta/issues/121)
+3. Fix some issues detected by sonarcloud dashboard of your project like [this](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/41)

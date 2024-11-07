@@ -37,7 +37,7 @@ Include [decycle](https://github.com/obecker/decycle) in your application in ord
                         <slicings>
                             <slicing>
                                 <name>branches</name>
-                                <patterns>br.edu.ifrn.conta.*=base, br.edu.ifrn.conta.{*}.**</patterns>
+                                <patterns>org.persapiens.account.*=base, org.persapiens.account.{*}.**</patterns>
                                 <constraints>
                                     <allow>controller, service, domain</allow>
                                     <allow>service, persistence, domain</allow>
