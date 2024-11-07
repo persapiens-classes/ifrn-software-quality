@@ -13,13 +13,13 @@ Duplicated Code
 
 Use [VSCode Java Pmd](https://marketplace.visualstudio.com/items?itemName=cracrayol.java-pmd)
 
-Hands on with [Conta Example Project.](https://github.com/persapiens/conta/pull/115)
+Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/34)
 
 ### Install and Run with Maven
 
 Use [pmd-maven-plugin](https://maven.apache.org/plugins/maven-pmd-plugin/cpd-mojo.html)
 
-Hands on with [Conta Example Project.](https://github.com/persapiens/conta/pull/115)
+Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/34)
 
 ## :construction_worker: Task
 
