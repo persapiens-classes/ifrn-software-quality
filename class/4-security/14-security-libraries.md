@@ -10,7 +10,7 @@ OWASP Vulnerable and Outdated Components
 
 [You can use Dependabot to alert you when your repository is using a software dependency with a known vulnerability.](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)
 
-Hands on with [Conta Example Project.](https://github.com/persapiens/conta/issues/168)
+Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/44)
 
 
 ## :bulb: OWASP Dependency Check
