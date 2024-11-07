@@ -13,7 +13,7 @@ According to [Sonarqube Documentation](https://docs.sonarqube.org/latest/)
 
 ### Steps to integrate your project to sonarcloud
 
-Hands on with [Conta Example Project.](https://github.com/persapiens/conta/issues/121)
+Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/41)
 
 1. [Login at Sonar Clound with your GitHub account](https://sonarcloud.io/login)
 
