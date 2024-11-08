@@ -11,7 +11,7 @@ Static Bugs
 
 Use [spotbugs-maven-plugin](https://spotbugs.readthedocs.io/en/latest/maven.html)
 
-Hands on with [Conta Example Project.](https://github.com/persapiens/conta/issues/117)
+Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/51)
 
 ## :construction_worker: Task
 
