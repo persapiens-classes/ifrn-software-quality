@@ -10,7 +10,7 @@ Let's see the description of [SQL Inject Attack.](https://owasp.org/www-communit
 
 ## :hammer: Definition
 
-[The Open Worldwide Application Security Project is an online community that produces freely available articles, methodologies, documentation, tools, and technologies in the fields of IoT, system software and web application security.](https://en.wikipedia.org/wiki/OWASP)
+[The Open Worldwide Application Security Project is an online community that produces freely available articles, methodologies, documentation, tools, and technologies in the fields of IoT, system software, and web application security.](https://en.wikipedia.org/wiki/OWASP)
 
 
 
@@ -21,11 +21,11 @@ Check out the [Top 10 Security Risks](https://owasp.org/Top10/)
 
 ## :construction_worker: Task
 
-Using the Top 10 Security Risks, check if your software has some security problem.
+Using the Top 10 Security Risks, check if your software has some (**at least three**) security problems.
 
-Identify and describe the rational about the security risk, collecting some evidences.
+Identify and describe the rationale for the security risk, collecting some evidence.
 
-It is not mandatory to solve it in this task.
+Explain how you could solve the security risk. (It is not mandatory to solve it in this task.)
 
 
 ## :sun_with_face: DevOps and Security
