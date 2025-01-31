@@ -37,18 +37,20 @@ Classes
 
 14. [Semantic Versioning and LTS](class/4-security/14-semantic-versioning-lts.md)
 
-15. [Security Libraries (Github Dependabot / OWASP Dependabot Check / Red Hat Dependency Analysis)](class/4-security/15-security-libraries.md)
+15. [Deprecated Code](class/4-security/15-deprecated-code.md)
 
-16. [Static Bugs (spotbugs)](class/4-security/16-static-bugs.md)
+16. [Security Libraries (Github Dependabot / OWASP Dependabot Check / Red Hat Dependency Analysis)](class/4-security/16-security-libraries.md)
 
-17. [Security Code (Findsecbugs)](class/4-security/17-security-code.md)
+17. [Static Bugs (spotbugs)](class/4-security/17-static-bugs.md)
 
-18. [Security Connection](class/4-security/18-security-connection.md)
+18. [Security Code (Findsecbugs)](class/4-security/18-security-code.md)
 
-19. [Secure Two Factor Authentication - 2FA](class/4-security/19-security-2FA.md)
+19. [Security Connection](class/4-security/19-security-connection.md)
 
-20. [Secure Password Manager](class/4-security/20-security-password-manager.md)
+20. [Secure Two Factor Authentication - 2FA](class/4-security/20-security-2FA.md)
 
-21. [Easy x Security with Credit Cards](class/4-security/21-easy-security-credit-card.md)
+21. [Secure Password Manager](class/4-security/21-security-password-manager.md)
 
-22. OWASP ZAP
+22. [Easy x Security with Credit Cards](class/4-security/22-easy-security-credit-card.md)
+
+23. OWASP ZAP
