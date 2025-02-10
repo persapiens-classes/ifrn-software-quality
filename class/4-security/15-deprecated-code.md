@@ -10,7 +10,7 @@ Deprecated Code
 
 You can use [maven compiler plugin](https://maven.apache.org/plugins/maven-compiler-plugin/compile-mojo.html) to allert about deprecation and warnings.
 
-Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/51)
+Hands on with [Configure maven-compiler-plugin to fail with deprecation and warnings Task at Account Backend Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/125)
 
 
 Note that **your IDE** may also help you with the task of replacing deprecated code.
