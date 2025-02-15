@@ -19,7 +19,7 @@ Use [plantuml-plugin maven plugin](https://github.com/arnaudroques/maven-plantum
 
 **Realize that UML Class Diagram of domain classes is automatically generated. Is it good?**
 
-Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/57)
+Hands on with [Example Project.](https://github.com/persapiens-classes/account-backend/issues/57)
 
 ## :construction_worker: Task
 

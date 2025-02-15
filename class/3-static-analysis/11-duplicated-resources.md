@@ -13,7 +13,7 @@ Duplicated Resources
 
 Use [duplicate-finder-maven-plugin](https://github.com/basepom/duplicate-finder-maven-plugin)
 
-Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/35)
+Hands on with [Example Project.](https://github.com/persapiens-classes/account-backend/issues/35)
 
 ## :construction_worker: Task
 

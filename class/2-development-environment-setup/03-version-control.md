@@ -28,4 +28,4 @@ When you finish the implementation in the branch, create a PR from your branch.
 
 Merge the PR into the main branch.
 
-See the example: [Adding README](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/1)
+See the example: [Adding README](https://github.com/persapiens-classes/account-backend/issues/1)

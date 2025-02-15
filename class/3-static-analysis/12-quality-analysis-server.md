@@ -13,7 +13,7 @@ According to [Sonarqube Documentation](https://docs.sonarqube.org/latest/)
 
 ### Steps to integrate your project to sonarcloud
 
-Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/41)
+Hands on with [Example Project.](https://github.com/persapiens-classes/account-backend/issues/41)
 
 1. [Login at Sonar Clound with your GitHub account](https://sonarcloud.io/login)
 
@@ -23,15 +23,15 @@ Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-soft
 
 4. Wait first automatic analysis to run. 
 
-5. See your project dashboard inside sonarcloud like [this](https://sonarcloud.io/summary/overall?id=persapiens-classes_ifrn-software-quality-example)
+5. See your project dashboard inside sonarcloud like [this](https://sonarcloud.io/summary/overall?id=persapiens-classes_account-backend)
 
 
 ## :construction_worker: Task
 
 Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
 
-1. Send a link of your project inside sonarcloud like [this](https://sonarcloud.io/summary/overall?id=persapiens-classes_ifrn-software-quality-example)
+1. Send a link of your project inside sonarcloud like [this](https://sonarcloud.io/summary/overall?id=persapiens-classes_account-backend)
 
 2. Configure your project to use an analysis quality server like Sonarcloud. 
 
-3. Fix some issues detected by sonarcloud dashboard of your project like [this](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/41)
+3. Fix some issues detected by sonarcloud dashboard of your project like [this](https://github.com/persapiens-classes/account-backend/issues/41)

@@ -15,13 +15,13 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Code_smell)
 
 Use [VSCode Java Pmd](https://marketplace.visualstudio.com/items?itemName=cracrayol.java-pmd)
 
-Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/33)
+Hands on with [Example Project.](https://github.com/persapiens-classes/account-backend/issues/33)
 
 ### Install and Run with Maven
 
 Use [pmd-maven-plugin](https://maven.apache.org/plugins/maven-pmd-plugin/usage.html)
 
-Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/33)
+Hands on with [Example Project.](https://github.com/persapiens-classes/account-backend/issues/33)
 
 ## :construction_worker: Task
 

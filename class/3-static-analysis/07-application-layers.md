@@ -84,7 +84,7 @@ Include [decycle](https://github.com/obecker/decycle) in your application in ord
 
 2. Open file at target/site/decycle/main.html
 
-### Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/29)
+### Hands on with [Example Project.](https://github.com/persapiens-classes/account-backend/issues/29)
 
 ## :construction_worker: Task
 

@@ -9,7 +9,7 @@ See the Bugs Patterns covered by [Find Security Bugs.](https://find-sec-bugs.git
 
 ## :bulb: FindsecBugs Maven Configuration
 
-Hands on with [Example Project.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/52)
+Hands on with [Example Project.](https://github.com/persapiens-classes/account-backend/issues/52)
 
 
 ## :construction_worker: Task

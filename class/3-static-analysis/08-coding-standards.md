@@ -25,13 +25,13 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 
 Use [VSCode Spring Format for Java](https://github.com/spring-io/spring-javaformat?tab=readme-ov-file#visual-studio-code)
 
-Hands on with [Example Project:](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/31) format and verify.
+Hands on with [Example Project:](https://github.com/persapiens-classes/account-backend/issues/31) format and verify.
 
 ### Install and Run with Maven
 
 Use [spring-javaformat-maven-plugin](https://github.com/spring-io/spring-javaformat?tab=readme-ov-file#maven)
 
-Hands on with [Example Project:](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/31) format and verify.
+Hands on with [Example Project:](https://github.com/persapiens-classes/account-backend/issues/31) format and verify.
 
 ## :construction_worker: Task
 

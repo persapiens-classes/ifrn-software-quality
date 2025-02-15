@@ -27,7 +27,7 @@
 
 - Create one pull request for your project according to [Task Submission Guidelines.](../../assessment.md#task-submission)
 
-- See the [example.](https://github.com/persapiens-classes/ifrn-software-quality-example/issues/3)
+- See the [example.](https://github.com/persapiens-classes/account-backend/issues/3)
 
 - Create a devcontainer.json to configure a dev container for your project.
 
