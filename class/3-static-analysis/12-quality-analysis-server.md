@@ -23,7 +23,9 @@ Hands on with [Example Project.](https://github.com/persapiens-classes/account-b
 
 4. Wait first automatic analysis to run. 
 
-5. See your project dashboard inside sonarcloud like [this](https://sonarcloud.io/summary/overall?id=persapiens-classes_account-backend)
+5. See your project dashboard inside SonarCloud like [this](https://sonarcloud.io/summary/overall?id=persapiens-classes_account-backend)
+
+6. [Integrate GitHub actions with SonarCloud.](https://github.com/persapiens-classes/account-backend/issues/183)
 
 
 ## :construction_worker: Task
