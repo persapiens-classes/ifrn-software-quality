@@ -5,7 +5,7 @@ Security Connection
 
 [Using valid certificates in HTTP connections is essential for ensuring security, authenticity, regulatory compliance, and a good user experience. Modern browsers are designed to detect and alert about invalid certificates, encouraging the use of secure practices and protecting users' data.](https://owasp.org/) 
 
-## :bulb: Securing you server with self-service certificate
+## :bulb: Securing you server with self-signed certificate
 
 [If you use Spring Boot, you can follow the excelent Baeldung tutorial.](https://www.baeldung.com/spring-boot-https-self-signed-certificate)
 
