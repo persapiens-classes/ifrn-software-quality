@@ -1,9 +1,7 @@
 Assessment
 ====
 
-- [Work with teams. Up to 5 members.](https://au.indeed.com/career-advice/interviewing/how-do-you-ensure-you-work-well-in-a-team)
-
-- Work with projects.
+- Work with individual projects.
 
 - Continuous assessment. Weekly. All practical tasks.
 
